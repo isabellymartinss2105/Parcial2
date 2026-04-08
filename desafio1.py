@@ -1,5 +1,5 @@
 # 1 soma de dois numeros
 n1 = float(input("digite seu numero: "))
 n2 = float(input("digite seu outro numero: "))
-some = (n1 + n2)
+some = (n1 + n20)
 print(some)
